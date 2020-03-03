@@ -1,0 +1,26 @@
+{
+  "name": "observatron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markwylde/observatron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markwylde/observatron/issues"
+  },
+  "homepage": "https://github.com/markwylde/observatron#readme",
+  "dependencies": {
+    "enti": "^6.4.1"
+  },
+  "devDependencies": {
+    "tape": "^4.13.2"
+  }
+}
