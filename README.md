@@ -1,4 +1,5 @@
 # observatron
+Basically http://github.com/korynunn/enti but with a different API
 
 ## Example Usage
 
